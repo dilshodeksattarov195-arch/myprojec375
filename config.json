@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailptringify",
+        "uuid": 3623250,
+        "checksum": "qhizne"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
